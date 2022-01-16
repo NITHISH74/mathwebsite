@@ -76,6 +76,12 @@ h1{
     margin-bottom: 5px;
 
 }
+.footer{
+  text-align: center;
+  color: greenyellow;
+  font-size: 50;
+  
+}
     </style>
 </head>
 <body><div class="container">
@@ -166,6 +172,10 @@ h1{
             });
       
         </script> 
+         <div class="footer">
+          Copyright &#169; 2021 ROCKSTAR CALCULATE, Developed by NITHISHWAR.
+             
+        </div>
   
 </body>
 </html>
@@ -173,7 +183,7 @@ h1{
 
 ## OUTPUT:
 
-![image](https://user-images.githubusercontent.com/94164665/149666174-08faa047-ddbe-4ef5-b6ca-403f59a1850f.png)
+![image](https://user-images.githubusercontent.com/94164665/149666641-f7fbde3d-aa00-4da2-9522-074ae0ca1342.png)
 
 ## Result:
 
